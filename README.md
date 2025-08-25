@@ -1,3 +1,4 @@
+![Imagem do Projeto!](<Imagem do projeto/Chat-GPT-Image-26-de-jul-de-2025-18-35-56-Photoroom.png>)
 # 🌳 PROJETO RADAR AMAZÔNICO
 
 A Amazônia é um dos biomas mais ricos e sensíveis do planeta, abrigando uma diversidade extraordinária de espécies e culturas. No entanto, ameaças como o desmatamento, a perda de habitat e as mudanças climáticas colocam em risco esse ecossistema vital, afetando não apenas a fauna e a flora locais, mas também o equilíbrio climático global.
